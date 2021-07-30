@@ -5,7 +5,7 @@ INSTRUCTIONS:
 - for controls of the game, just hit start and look at the text in the first level.
 - main menu buttons are K for enter, up and down arrows for selecting buttons.
 
-KNOWN BUGS:
+BUGS:
 - trying to load an invalid map name (i.e., ones that dont exist) always gives an error even if you hit "cancel".
 - sometimes, the gearbox will get messed up (i.e., unable to shift into D from P).
 this happened only once; couldn't find the reason, didn't happen again.
