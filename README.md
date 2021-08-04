@@ -1,6 +1,8 @@
 # ICS3U-Parking-Master
 Parking game; final project for Grade 11 Computer Science -- Semester 1, 2019.
 
+todo: add demo gifs
+
 INSTRUCTIONS:
 - for controls of the game, just hit start and look at the text in the first level.
 - main menu buttons are K for enter, up and down arrows for selecting buttons.
